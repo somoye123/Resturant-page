@@ -35,7 +35,7 @@ View the app live [here](https://raw.githack.com/somoye123/Resturant-page/featur
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page]https://github.com/somoye123/Resturant-page/issues).
+Feel free to check the [issues page](https://github.com/somoye123/Resturant-page/issues).
 
 ## Show your support
 
