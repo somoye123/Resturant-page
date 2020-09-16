@@ -13,7 +13,7 @@ const menu = () => {
   const menuOneImg = document.createElement('div');
   menuOneImg.classList.add('menu-img-1');
   const menuOneName = document.createElement('h5');
-  menuOneName.innerText = 'Rice and Chicken';
+  menuOneName.innerText = 'Yam Pottage';
 
   menuOne.appendChild(menuOneImg);
   menuOne.appendChild(menuOneName);
@@ -23,7 +23,7 @@ const menu = () => {
   const menuTwoImg = document.createElement('div');
   menuTwoImg.classList.add('menu-img-2');
   const menuTwoName = document.createElement('h5');
-  menuTwoName.innerText = 'Beans and Dodo';
+  menuTwoName.innerText = 'Sandwich';
 
   menuTwo.appendChild(menuTwoImg);
   menuTwo.appendChild(menuTwoName);
@@ -33,7 +33,7 @@ const menu = () => {
   const menuThreeImg = document.createElement('div');
   menuThreeImg.classList.add('menu-img-3');
   const menuThreeName = document.createElement('h5');
-  menuThreeName.innerText = 'Sphagetti Bolognaise';
+  menuThreeName.innerText = 'Salad';
 
   menuThree.appendChild(menuThreeImg);
   menuThree.appendChild(menuThreeName);
@@ -43,7 +43,7 @@ const menu = () => {
   const menuFourImg = document.createElement('div');
   menuFourImg.classList.add('menu-img-4');
   const menuFourName = document.createElement('h5');
-  menuFourName.innerText = 'Yam Porridge';
+  menuFourName.innerText = 'Egusi Soup';
 
   menuFour.appendChild(menuFourImg);
   menuFour.appendChild(menuFourName);
@@ -53,7 +53,7 @@ const menu = () => {
   const menuFiveImg = document.createElement('div');
   menuFiveImg.classList.add('menu-img-5');
   const menuFiveName = document.createElement('h5');
-  menuFiveName.innerText = 'Egusi Soup';
+  menuFiveName.innerText = 'Spaghetti';
 
   menuFive.appendChild(menuFiveImg);
   menuFive.appendChild(menuFiveName);
