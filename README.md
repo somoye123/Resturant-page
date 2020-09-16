@@ -4,12 +4,12 @@
 
 ![screenshot](./images/Screenshot.png)
 
- View the app live [here](https://rawcdn.githack.com/)
+View the app live [here](https://rawcdn.githack.com/somoye123/Resturant-page/55076eb41313eebeead4d5b2f587e58fc5f43da2/dist/index.html)
 
 ## Built With
 
 - Javascript, HTML and CSS
- 
+
 ## Prerequisites
 
 - Node
