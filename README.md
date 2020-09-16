@@ -21,7 +21,7 @@ View the app live [here](https://rawcdn.githack.com/somoye123/Resturant-page/550
 - cd into the folder
 - npm install
 - npm run build
-- Open the index.html file in any web browser of your choosing.
+- Open the dist/index.html file in any web browser of your choosing.
 
 # Authors
 
