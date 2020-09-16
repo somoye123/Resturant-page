@@ -1,23 +1,23 @@
-import Navbar from "./navbar";
-import Home from "./home";
-import Menu from "./menu";
-import Contact from "./contact";
+import Navbar from './navbar';
+import Home from './home';
+import Menu from './menu';
+import Contact from './contact';
 
-const content = document.getElementById("content");
+const content = document.getElementById('content');
 
 const showPage = (section) => {
-  content.innerHTML = "";
+  content.innerHTML = '';
   content.appendChild(Navbar);
   content.appendChild(section);
 };
 
 showPage(Home);
 
-const bannerBtn = document.querySelector(".btn-menu");
-const logoBtn = document.querySelector(".nav-logo");
-const homeBtn = document.getElementById("home");
-const menuBtn = document.getElementById("menu");
-const contactBtn = document.getElementById("contact");
+const bannerBtn = document.querySelector('.btn-menu');
+const logoBtn = document.querySelector('.nav-logo');
+const homeBtn = document.getElementById('home');
+const menuBtn = document.getElementById('menu');
+const contactBtn = document.getElementById('contact');
 
 const switchPage = ({ target }) => {
   switch (target) {
@@ -39,8 +39,8 @@ const switchPage = ({ target }) => {
   }
 };
 
-homeBtn.addEventListener("click", switchPage);
-logoBtn.addEventListener("click", switchPage);
-menuBtn.addEventListener("click", switchPage);
-contactBtn.addEventListener("click", switchPage);
-bannerBtn.addEventListener("click", switchPage);
+homeBtn.addEventListener('click', switchPage);
+logoBtn.addEventListener('click', switchPage);
+menuBtn.addEventListener('click', switchPage);
+contactBtn.addEventListener('click', switchPage);
+bannerBtn.addEventListener('click', switchPage);

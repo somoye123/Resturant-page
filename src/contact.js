@@ -1,11 +1,11 @@
 const contact = () => {
-  const container = document.createElement("div");
-  container.classList.add("contact-container");
+  const container = document.createElement('div');
+  container.classList.add('contact-container');
 
-  const contactHeader = document.createElement("h2");
-  contactHeader.innerText = "CONTACT US";
+  const contactHeader = document.createElement('h2');
+  contactHeader.innerText = 'CONTACT US';
 
-  const contactForm = document.createElement("form");
+  const contactForm = document.createElement('form');
 
   const htmlForm = `
           <div class="form-group">

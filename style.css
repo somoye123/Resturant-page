@@ -61,7 +61,8 @@ nav {
 
 .bg-image {
   padding: 15% 0 0 4%;
-  background: linear-gradient(to left, rgba(5, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+  background:
+    linear-gradient(to left, rgba(5, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("../images/home-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
