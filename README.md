@@ -4,7 +4,7 @@
 
 ![screenshot](./images/Screenshot.png)
 
-View the app live [here](https://raw.githack.com/somoye123/Resturant-page/feature/dist/index.html)
+View the app live [here](https://raw.githack.com/somoye123/Resturant-page/master/dist/index.html)
 
 ## Built With
 
